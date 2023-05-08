@@ -1,4 +1,4 @@
-![logo](https://github.com/HasithaEdiriweera/Hasitha-Ediriweera/blob/main/blog-banner-github-scanning.png)
+![logo](https://github.com/HasithaEdiriweera/HasithaEdiriweera/blob/main/blog-banner-github-scanning.png)
 <h1 align="center">Hi 👋, I'm Hasitha Ediriweera</h1>
 <h3 align="center">A passionate Software Engineer with 7 years of experience, Specialize in JavaScript, VueJs, NodeJS, React, Element-ui, Chakra-ui, PHP, Laravel, and Ruby on Rails.</h3>
 
